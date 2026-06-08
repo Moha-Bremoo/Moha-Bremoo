@@ -1,21 +1,25 @@
 <div align="center">
 
 ```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
 ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
 ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
 ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+██████╗ ██████╗ ███████╗███╗   ███╗ ██████╗  ██████╗ 
+██╔══██╗██╔══██╗██╔════╝████╗ ████║██╔═══██╗██╔═══██╗
+██████╔╝██████╔╝█████╗  ██╔████╔██║██║   ██║██║   ██║
+██╔══██╗██╔══██╗██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║
+██████╔╝██║  ██║███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ 
 ```
-
-**`BREMOO`**
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img align="right" width="500" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 ### Hi there, I'm Mohammed 👋
 
@@ -50,10 +54,10 @@ class Mohammed:
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moha-Bremoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-Bremoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moha-Bremoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
@@ -103,6 +107,7 @@ class Mohammed:
 **AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks**
 <br>*ArabicNLP 2025 · ACL Anthology*
 <br>Benchmark localization pipeline for Arabic video-text retrieval — addressing the gap in Arabic multimodal NLP resources.
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square&logo=googledocs&logoColor=white)](https://aclanthology.org/2025.arabicnlp-main.23.pdf)
 
 </td>
 </tr>
@@ -113,6 +118,7 @@ class Mohammed:
 **Multimodal Lengthy Videos Retrieval Framework and Evaluation Metric**
 <br>*arXiv preprint · 2025*
 <br>A retrieval framework and novel evaluation metric designed specifically for long-form video understanding.
+<br>[![arXiv](https://img.shields.io/badge/arXiv-2504.04572-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.04572)
 
 </td>
 </tr>
@@ -173,10 +179,6 @@ Automatic generation of precise formal letters aligned with uploaded legal docum
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moha-Bremoo&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
 
 <div align="center">
   <sub>Always building. Always learning.</sub>
